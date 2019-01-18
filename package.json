@@ -1,0 +1,22 @@
+{
+  "name": "embark-test-contract",
+  "version": "0.0.1",
+  "author": "Eric Mastro <eric.mastro@gmail.com>",
+  "contributors": [],
+  "description": "Contract used in embark's unit tests",
+  "homepage": "https://embark.status.im/",
+  "keywords": [
+    "blockchain",
+    "dapps",
+    "ethereum",
+    "ipfs",
+    "serverless",
+    "solc",
+    "solidity"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/embark-framework/embark-test-contract"
+  }
+}
