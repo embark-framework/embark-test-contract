@@ -1,5 +1,7 @@
 pragma solidity ^0.5.0;
 
+import "embark-test-contract-1/recursive_test_4.sol";
+
 contract SimpleStorageRecursive3 {
     uint public storedData;
 

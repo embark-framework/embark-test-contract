@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/embark-framework/embark-test-contract"
+  },
+  "dependencies": {
+    "embark-test-contract-1": "^0.0.1"
   }
 }
